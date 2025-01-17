@@ -1,0 +1,5 @@
+com\biblio\servicebooks\model\LivreEntite.class
+com\biblio\servicebooks\controller\LivreController.class
+com\biblio\servicebooks\service\LivreService.class
+com\biblio\servicebooks\repository\LivreRepository.class
+com\biblio\servicebooks\ServiceBooksApplication.class
