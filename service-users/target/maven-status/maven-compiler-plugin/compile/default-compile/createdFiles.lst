@@ -1,0 +1,6 @@
+com\s\serviceusers\model\User.class
+com\s\serviceusers\repository\UserRepository.class
+com\s\serviceusers\service\UserService.class
+com\s\serviceusers\config\SecurityConfig.class
+com\s\serviceusers\ServiceUsersApplication.class
+com\s\serviceusers\controller\UserController.class
